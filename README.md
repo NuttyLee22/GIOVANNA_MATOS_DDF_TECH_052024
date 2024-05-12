@@ -36,9 +36,9 @@ Link:
 
     https://app.dadosfera.ai/en-US/catalog/data-assets
 
-![print1](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/8772d835-ab93-4d91-93fb-7c9ed9c47a9d)
+![print7](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/b0353469-4fef-4348-b0e2-a98679a830a5)
 
-![print 2](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/49d2bda0-1527-4a1b-ac86-3437c19ed9ce)
+![print8](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/120bade1-46b7-45b9-a2f5-506836d2e258)
 
 
 ## Item  3 - Sobre a Dadosfera - Explorar
@@ -52,6 +52,15 @@ Usando os seus conhecimentos da documentação da Dadosfera, faça a carga desse
 
 Após a integração e exploração dos dados do site de e-commerce, você identificou várias inconsistências e dados faltantes que podem impactar negativamente a performance dos modelos de IA e a experiência de compra dos clientes. Como você abordaria a melhoria da qualidade desses dados utilizando as ferramentas e práticas recomendadas pela Dadosfera?
 
+    1. Limpeza de Dados:
+
+    Implementação de técnicas de Limpeza de Dados para corrigir erros, remover duplicatas e preencher valores ausentes. 
+    Utilizar regras de negócios e conhecimento do domínio para garantir a consistência e precisão dos dados.
+
+    2. Enriquecimento de Dados:
+
+    Enriquecer os dados do e-commerce com informações de fontes externas, como dados demográficos, comportamentais e de mercado, para aprimorar a análise e a tomada de decisões.Também podemos utilizar técnicas de Machine Learning para imputar valores faltantes de forma inteligente e precisa.
+
 Gere um relatório de qualidade dos dados usando uma biblioteca apropriada - great-expectations ou soda-core -  para identificar inconsistências e dados faltantes.
 
 Arquivo: src\checagem_qualidade_dados\data_quality.py
@@ -60,6 +69,8 @@ Arquivo: src\checagem_qualidade_dados\data_quality.py
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/5b26f91b-9cac-476a-9314-e8aa3374519c)
 
+
+*OBS: Não foi possível gerar o arquivo do relatório devido à inconsistencias com a instalação das bibliotecas soda-core e great-expectations*
 
 ## Item 5 - Sobre o uso de GenAI e LLMs - Processar
 
