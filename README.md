@@ -1,20 +1,26 @@
-# GIOVANNA_MATOS_DDF_TECH_052024
+# Case Técnico - GIOVANNA_MATOS_DDF_TECH_052024
 Case técnico para vaga Engenharia de Soluções com foco em Engenharia de Dados
 
 ## Item 0 - Sobre Agilidade e Planejamento
 
-    Crie um artefato que represente todas as etapas do projeto, desde a concepção até a implementação, seguindo as melhores práticas do PMBOK. Pode ser, tanto um gantt chart, um fluxograma, um checklist de tarefas ou um kanban board com as tarefas planejadas. Adicione esse fluxograma na documentação do case.
+Crie um artefato que represente todas as etapas do projeto, desde a concepção até a implementação, seguindo as melhores práticas do PMBOK. Pode ser, tanto um gantt chart, um fluxograma, um checklist de tarefas ou um kanban board com as tarefas planejadas. Adicione esse fluxograma na documentação do case.
 
-    Avançado: Incluir análises de risco, estimativas de custos, e alocação de recursos.
-    Avançado: Representar interdependências e pontos críticos do projeto.
+Avançado: Incluir análises de risco, estimativas de custos, e alocação de recursos.
+Avançado: Representar interdependências e pontos críticos do projeto.
 
     Trello: https://trello.com/invite/b/FtcdY7eq/ATTIc37a7cce8eabd4fa1da65036f5ea8627000BEA54/case-engenharia-de-dados
+
+![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/db2f393e-6adc-4cae-9d1a-3efe46f21cc5)
+
 
 ## Item 1 - Sobre a Base de Dados
 
 Seguindo o cenário proposto na definição do Case, pesquise e sugira uma base de dados para fazer todo case ponta a ponta.
 
-Base sugerida: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download
+    Base sugerida: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download
+
+![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/b1cf38b9-7735-4e7b-a01d-930f32b43585)
+
 
 
 ## Item  2.1 - Sobre a Dadosfera - Integrar
@@ -23,7 +29,7 @@ Vamos iniciar com o carregamento e posterior análise descritiva dos dados propo
 
 Lembre-se: você deve carregar, pelo menos, 100.000 registros para que seu case seja avaliado por completo.
 
-Link Dadosfera: https://app.dadosfera.ai/en-US/catalog/data-assets
+    Link Dadosfera: https://app.dadosfera.ai/en-US/catalog/data-assets
 
 ![print1](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/8772d835-ab93-4d91-93fb-7c9ed9c47a9d)
 
