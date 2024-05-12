@@ -8,7 +8,9 @@ Crie um artefato que represente todas as etapas do projeto, desde a concepção 
 Avançado: Incluir análises de risco, estimativas de custos, e alocação de recursos.
 Avançado: Representar interdependências e pontos críticos do projeto.
 
-    Trello: https://trello.com/invite/b/FtcdY7eq/ATTIc37a7cce8eabd4fa1da65036f5ea8627000BEA54/case-engenharia-de-dados
+Link Trello:
+
+    https://trello.com/invite/b/FtcdY7eq/ATTIc37a7cce8eabd4fa1da65036f5ea8627000BEA54/case-engenharia-de-dados
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/db2f393e-6adc-4cae-9d1a-3efe46f21cc5)
 
@@ -17,10 +19,11 @@ Avançado: Representar interdependências e pontos críticos do projeto.
 
 Seguindo o cenário proposto na definição do Case, pesquise e sugira uma base de dados para fazer todo case ponta a ponta.
 
-    Base sugerida: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download
+Base sugerida: 
+
+    https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/b1cf38b9-7735-4e7b-a01d-930f32b43585)
-
 
 
 ## Item  2.1 - Sobre a Dadosfera - Integrar
@@ -29,11 +32,14 @@ Vamos iniciar com o carregamento e posterior análise descritiva dos dados propo
 
 Lembre-se: você deve carregar, pelo menos, 100.000 registros para que seu case seja avaliado por completo.
 
-    Link Dadosfera: https://app.dadosfera.ai/en-US/catalog/data-assets
+Link:
+
+    https://app.dadosfera.ai/en-US/catalog/data-assets
 
 ![print1](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/8772d835-ab93-4d91-93fb-7c9ed9c47a9d)
 
 ![print 2](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/49d2bda0-1527-4a1b-ac86-3437c19ed9ce)
+
 
 ## Item  3 - Sobre a Dadosfera - Explorar
 
@@ -48,7 +54,8 @@ Após a integração e exploração dos dados do site de e-commerce, você ident
 
 Gere um relatório de qualidade dos dados usando uma biblioteca apropriada - great-expectations ou soda-core -  para identificar inconsistências e dados faltantes.
 
-Desenvolvimento em código:
+Arquivo: src\checagem_qualidade_dados\data_quality.py
+
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/d02ffe9a-29c6-484f-a55d-9d0a074f18b9)
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/bc061f36-b166-46ca-a73c-6ec528a89949)
@@ -70,7 +77,7 @@ Crie um modelagem seguindo os princípios de Kimball, Data Vault ou outro - que 
 
 Bonus: desenhe o diagrama representando as camadas finais do DW proposto.
 
-Uso do MySQL Workbench.
+Arquivo: Docs\modelagem_dados_brazil_ecommerce_olist\ecommerce-olist.mwb
 
 ![ecommerce-olist](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/e9a05315-242e-4f09-a164-f3855f775ca6)
 
@@ -80,11 +87,15 @@ Crie uma Coleção com o formato <nome> <sobrenome> - <mes_ano> assim como no ex
 
 Crie um dashboard que mostre uma análise das categoria e uma análise de série-temporal. Salve a Query SQL utilizada e também o print do resultado da query no documento markdown deste teste. Crie, pelo menos, 5 visualizações/questões em cima dos dados, utilizando 5 tipos de visualizações diferentes.
 
-Link Dadosfera:https://metabase-treinamentos.dadosfera.ai/collection/471-giovanna-matos-052024
+Link:
+
+    https://metabase-treinamentos.dadosfera.ai/collection/471-giovanna-matos-052024
 
 ![print3](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/2abb0b9f-b7ab-4c34-9c02-8e502f73a674)
 
-Dashboard:https://metabase-treinamentos.dadosfera.ai/dashboard/109-dash-vendas-ecommerce-olist
+Link:
+
+    https://metabase-treinamentos.dadosfera.ai/dashboard/109-dash-vendas-ecommerce-olist
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/8bbd7e10-ba98-45f9-800b-182f61074cd7)
 
@@ -101,7 +112,9 @@ Uma das etapas essenciais de um projeto de Dados é a criação de Pipelines de 
 
 Agora você tem que criar um pipeline para processar os dados anteriores. Para criar um pipeline, acesse nosso módulo de inteligência e siga este guia na nossa documentação.
 
-Link Dadosfera: https://app-intelligence-treinamentos.dadosfera.ai/pipeline?project_uuid=a0229280-a34c-47ff-9bc5-cdbed3e4ae5e&pipeline_uuid=a16d4e62-14f4-4d6e-a81b-00b8bc2f366a
+Link:
+
+    https://app-intelligence-treinamentos.dadosfera.ai/pipeline?project_uuid=a0229280-a34c-47ff-9bc5-cdbed3e4ae5e&pipeline_uuid=a16d4e62-14f4-4d6e-a81b-00b8bc2f366a
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/4330def2-fbb1-44ac-af04-3e944e969d7a)
 
@@ -109,13 +122,15 @@ Link Dadosfera: https://app-intelligence-treinamentos.dadosfera.ai/pipeline?proj
 
 Agora você tem que criar um Data App utilizando Streamlit para explorar os dados anteriores. Para criar um Data App, acesse nosso módulo de inteligência e siga este guia na nossa documentação. 
 
-Link:https://app-intelligence-treinamentos.dadosfera.ai/pipeline?project_uuid=a0229280-a34c-47ff-9bc5-cdbed3e4ae5e&pipeline_uuid=a16d4e62-14f4-4d6e-a81b-00b8bc2f366a
+Link:
+
+    https://app-intelligence-treinamentos.dadosfera.ai/pipeline?project_uuid=a0229280-a34c-47ff-9bc5-cdbed3e4ae5e&pipeline_uuid=a16d4e62-14f4-4d6e-a81b-00b8bc2f366a
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/33611ba7-cbe2-4998-8508-b3b1b8bdd836)
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/0128c509-8c54-44f3-95f7-db6be7c8654e)
 
-Link porta 
+PRINT PORTA
 
 ## Item 10 - Apresentação do Case
 
@@ -132,13 +147,18 @@ Exemplo de uso do Dall-e aqui:
 
 ![Untitled](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/79d72d7a-6626-4e5a-af53-8e55c99ffda3)
 
+Link: 
+
+
+PRINT
+
 
 ## Resultado e Forma de Avaliação
 
 Em escala de nota final menor para a maior.
 
-    Mínimo: responder as perguntas do item do case 2, 3 e 4 e carregá- no Github
-    Intermediário: mínimo anterior + item do case 1 (apresentaçao em video)
-    Avançado: Intermediário + item case 5 (Data App em streamlit)
-    Excelente: Avançado + case bonus
-    Outlier: extrapolar o que foi pedido.
+Mínimo: responder as perguntas do item do case 2, 3 e 4 e carregá- no Github
+Intermediário: mínimo anterior + item do case 1 (apresentaçao em video)
+Avançado: Intermediário + item case 5 (Data App em streamlit)
+Excelente: Avançado + case bonus
+Outlier: extrapolar o que foi pedido.
