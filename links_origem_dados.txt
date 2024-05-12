@@ -1,0 +1,14 @@
+Brazilian E-Commerce Public Dataset by Olist
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download
+
+Transportation and Logistics Tracking Dataset
+https://www.kaggle.com/datasets/nicolemachado/transportation-and-logistics-tracking-dataset
+
+product-search-corpus
+https://huggingface.co/datasets/spacemanidol/product-search-corpus/tree/main
+
+TLC Trip Record Data
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+AdventureWorks Data Dictionary
+https://dataedo.com/download/AdventureWorks.pdf
