@@ -1,0 +1,30 @@
+source:
+  type: list
+  sources:
+    - type: pandas
+      path: DOCS\Brazilian_E-Commerce_Public_Dataset_by_Olist\olist_sellers_dataset.csv
+    # - type: pandas
+    #   path: data2.csv
+
+checks:
+  - source: olist_sellers_dataset.csv
+    checks:
+      - id: check_city_type
+        type: text_type
+        column: seller_city
+        expected_type: text
+      # - id: check_gender_type
+      #   type: data_type
+      #   column: gender
+      #   expected_type: string
+  # - source: data2.csv
+  #   checks:
+  #     - id: check_price_type
+  #       type: data_type
+  #       column: price
+  #       expected_type: float
+  #     - id: check_product_name_length
+  #       type: length
+  #       column: product_name
+  #       min_length: 5
+  #       max_length: 255
