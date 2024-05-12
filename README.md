@@ -56,9 +56,10 @@ Gere um relatório de qualidade dos dados usando uma biblioteca apropriada - gre
 
 Arquivo: src\checagem_qualidade_dados\data_quality.py
 
-![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/d02ffe9a-29c6-484f-a55d-9d0a074f18b9)
+![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/41e13105-93ea-4d0f-89b3-05429f0e232d)
 
-![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/bc061f36-b166-46ca-a73c-6ec528a89949)
+![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/5b26f91b-9cac-476a-9314-e8aa3374519c)
+
 
 ## Item 5 - Sobre o uso de GenAI e LLMs - Processar
 
@@ -155,8 +156,10 @@ Exemplo de uso do Dall-e aqui:
 
 Link: 
 
+    https://app-intelligence-treinamentos.dadosfera.ai/jupyter-lab?project_uuid=80b7938b-d4fa-4e63-9b1e-a5b040eb7812&pipeline_uuid=13858f16-44ec-4c17-ae6b-a0714df69f0c&
 
-PRINT
+![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/50f08908-20ff-437b-81f6-377457d58f04)
+
 
 
 ## Resultado e Forma de Avaliação
