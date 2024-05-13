@@ -185,6 +185,10 @@ Link:
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/e866973b-aade-402b-be8c-3c912ada4a15)
 
+Link:
+
+    https://app-intelligence-treinamentos.dadosfera.ai/pipeline?project_uuid=80b7938b-d4fa-4e63-9b1e-a5b040eb7812&pipeline_uuid=13858f16-44ec-4c17-ae6b-a0714df69f0c
+
 ![print6](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/e5a1a796-903a-4c3f-bf00-5c0e05ed5d93)
 
 
