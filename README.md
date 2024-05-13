@@ -181,13 +181,13 @@ Link:
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/0128c509-8c54-44f3-95f7-db6be7c8654e)
 
-![print5](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/038bc9e5-518f-42ae-9258-70098e3e4392)
-
-![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/e866973b-aade-402b-be8c-3c912ada4a15)
-
 Link:
 
     https://app-intelligence-treinamentos.dadosfera.ai/pipeline?project_uuid=80b7938b-d4fa-4e63-9b1e-a5b040eb7812&pipeline_uuid=13858f16-44ec-4c17-ae6b-a0714df69f0c
+
+![print5](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/038bc9e5-518f-42ae-9258-70098e3e4392)
+
+![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/e866973b-aade-402b-be8c-3c912ada4a15)
 
 ![print6](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/e5a1a796-903a-4c3f-bf00-5c0e05ed5d93)
 
