@@ -23,6 +23,8 @@ Link Trello:
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/db2f393e-6adc-4cae-9d1a-3efe46f21cc5)
 
+![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/c7d40f1b-bc82-4c58-b360-cc53d21a6baa)
+
 
 ## Item 1 - Sobre a Base de Dados
 
