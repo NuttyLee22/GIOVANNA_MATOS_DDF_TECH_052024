@@ -103,7 +103,7 @@ Arquivo: Docs\modelagem_dados_brazil_ecommerce_olist\ecommerce-olist.mwb
 
 ![ecommerce-olist](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/e9a05315-242e-4f09-a164-f3855f775ca6)
 
-![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/dd3c920d-54dc-4de7-8491-3cba72f82d99)
+![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/a9786dd7-10b1-4197-8bf7-cb84990c2a1f)
 
 
 ## Item  7 - Sobre Análise de Dados - Analisar
