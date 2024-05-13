@@ -63,7 +63,9 @@ Após a integração e exploração dos dados do site de e-commerce, você ident
 
     2. Enriquecimento de Dados:
 
-    Enriquecer os dados do e-commerce com informações de fontes externas, como dados demográficos, comportamentais e de mercado, para aprimorar a análise e a tomada de decisões.Também podemos utilizar técnicas de Machine Learning para imputar valores faltantes de forma inteligente e precisa.
+    Enriquecer os dados do e-commerce com informações de fontes externas, como dados demográficos, comportamentais e de mercado, 
+    para aprimorar a análise e a tomada de decisões.Também podemos utilizar técnicas de Machine Learning para imputar valores faltantes 
+    de forma inteligente e precisa.
 
 Gere um relatório de qualidade dos dados usando uma biblioteca apropriada - great-expectations ou soda-core -  para identificar inconsistências e dados faltantes.
 
