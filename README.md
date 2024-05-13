@@ -128,7 +128,7 @@ Link Coleção:
 
 Exemplo de Query: 
 
-    https://app-intelligence-treinamentos.dadosfera.ai/jupyter-lab?project_uuid=80b7938b-d4fa-4e63-9b1e-a5b040eb7812&pipeline_uuid=13858f16-44ec-4c17-ae6b-a0714df69f0c&
+    https://metabase-treinamentos.dadosfera.ai/question/966-lucro-de-vendas-por-estado
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/0c9b7f77-6dab-48fb-ab29-23b32b12b33e)
 
