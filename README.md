@@ -203,7 +203,7 @@ Você deve mostrar, com base nos seus estudos sobre a Documentação da Dadosfer
 
 Link Vídeo:
 
-    
+    https://youtu.be/C9TU6HnjSRM
 
 
 ## Item Bonus - Sobre GenAI + Data Apps
