@@ -192,14 +192,3 @@ Link:
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/50f08908-20ff-437b-81f6-377457d58f04)
 
-
-
-## Resultado e Forma de Avaliação
-
-Em escala de nota final menor para a maior.
-
-Mínimo: responder as perguntas do item do case 2, 3 e 4 e carregá- no Github
-Intermediário: mínimo anterior + item do case 1 (apresentaçao em video)
-Avançado: Intermediário + item case 5 (Data App em streamlit)
-Excelente: Avançado + case bonus
-Outlier: extrapolar o que foi pedido.
