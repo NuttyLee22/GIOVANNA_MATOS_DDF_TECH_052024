@@ -1,6 +1,15 @@
 # Case Técnico - GIOVANNA_MATOS_DDF_TECH_052024
 Case técnico para vaga Engenharia de Soluções com foco em Engenharia de Dados
 
+## Introdução ao case
+
+Como Profissional de Dados na Dadosfera, você irá construir projetos de implementação da plataforma Dadosfera SaaS, em uma empresa, buscando centralizar diversas fontes de dados para aprimorar a tomada de decisões, eficiência operacional e análise estratégica. Após um kickoff bem-sucedido com o cliente, é hora de dar sequência à execução do projeto, enfrentando os desafios específicos delineados pelo cliente.
+
+Seu cliente, uma grande empresa de e-commerce, está com um projeto de contruir uma Plataforma de Dados, com o objetivo de entregar análises descritivas e prescritivas com maior agilidade, menor custo, em todas as áreas da empresa.
+
+PARA O CASE, VOCÊ DEVE PROPOR UMA BASE DE DADOS QUE CONHEÇA E QUE SE ENCAIXE NA NARRATIVA ACIMA.
+
+
 ## Item 0 - Sobre Agilidade e Planejamento
 
 Crie um artefato que represente todas as etapas do projeto, desde a concepção até a implementação, seguindo as melhores práticas do PMBOK. Pode ser, tanto um gantt chart, um fluxograma, um checklist de tarefas ou um kanban board com as tarefas planejadas. Adicione esse fluxograma na documentação do case.
