@@ -88,6 +88,9 @@ Uso do Google AI Studio para gerar os features:
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/b41a8e21-3d01-4877-b346-3fb243e9f7b6)
 
+Arquivo disponível em: Docs/features_product_search_corpus/features-product-search-corpus.md
+
+    https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/blob/main/Docs/features_product_search_corpus/features-product-search-corpus.md
 
 ## Item 6 - Sobre Modelagem de Dados
 
@@ -112,13 +115,13 @@ Crie uma Coleção com o formato <nome> <sobrenome> - <mes_ano> assim como no ex
 
 Crie um dashboard que mostre uma análise das categoria e uma análise de série-temporal. Salve a Query SQL utilizada e também o print do resultado da query no documento markdown deste teste. Crie, pelo menos, 5 visualizações/questões em cima dos dados, utilizando 5 tipos de visualizações diferentes.
 
-Link:
+Link Coleção:
 
     https://metabase-treinamentos.dadosfera.ai/collection/471-giovanna-matos-052024
 
 ![print3](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/2abb0b9f-b7ab-4c34-9c02-8e502f73a674)
 
-Link:
+Link Dashboard:
 
     https://metabase-treinamentos.dadosfera.ai/dashboard/109-dash-vendas-ecommerce-olist
 
