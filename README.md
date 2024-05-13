@@ -191,9 +191,14 @@ Link:
 
 Após a primeira reunião com nossa equipe de vendas, você deve fornecer uma solução técnica que atenda às exigências e se encaixe na arquitetura deles. Aqui está o diagrama da arquitetura atual deles:
 
+![Untitled](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/f409d986-14ae-4101-9e3a-3950801c10dc)
+
 Você deve mostrar, com base nos seus estudos sobre a Documentação da Dadosfera, a viabilidade de substituirmos essa solução pelo case construído.
 
 Link Vídeo:
+
+    
+
 
 ## Item Bonus - Sobre GenAI + Data Apps
 
