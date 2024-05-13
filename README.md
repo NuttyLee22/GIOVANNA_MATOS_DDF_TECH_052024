@@ -88,6 +88,11 @@ Uso do Google AI Studio para gerar os features:
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/b41a8e21-3d01-4877-b346-3fb243e9f7b6)
 
+Resultado:
+
+![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/662be532-c006-43b5-8842-4bbd4a457402)
+
+
 Arquivo disponível em: Docs/features_product_search_corpus/features-product-search-corpus.md
 
     https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/blob/main/Docs/features_product_search_corpus/features-product-search-corpus.md
