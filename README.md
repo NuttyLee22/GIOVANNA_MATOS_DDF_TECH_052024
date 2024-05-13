@@ -32,6 +32,10 @@ Vamos iniciar com o carregamento e posterior análise descritiva dos dados propo
 
 Lembre-se: você deve carregar, pelo menos, 100.000 registros para que seu case seja avaliado por completo.
 
+Os datasets também estão presentes no caminho: Docs/datasets/Brazilian_E-Commerce_Public_Dataset_by_Olist
+
+    https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/tree/main/Docs/datasets/Brazilian_E-Commerce_Public_Dataset_by_Olist
+
 Link:
 
     https://app.dadosfera.ai/en-US/catalog/data-assets
@@ -63,7 +67,9 @@ Após a integração e exploração dos dados do site de e-commerce, você ident
 
 Gere um relatório de qualidade dos dados usando uma biblioteca apropriada - great-expectations ou soda-core -  para identificar inconsistências e dados faltantes.
 
-Arquivo: src\checagem_qualidade_dados\data_quality.py
+Arquivo: src/checagem_qualidade_dados/data_quality.py
+
+    https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/blob/main/src/checagem_qualidade_dados/data_quality.py
 
 ![image](https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/assets/68132085/41e13105-93ea-4d0f-89b3-05429f0e232d)
 
