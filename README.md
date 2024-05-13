@@ -105,7 +105,7 @@ Crie um modelagem seguindo os princípios de Kimball, Data Vault ou outro - que 
 
 Bonus: desenhe o diagrama representando as camadas finais do DW proposto.
 
-Arquivo: Docs\modelagem_dados_brazil_ecommerce_olist\ecommerce-olist.mwb
+Arquivo: Docs/modelagem_dados_brazil_ecommerce_olist
 
     https://github.com/NuttyLee22/GIOVANNA_MATOS_DDF_TECH_052024/tree/main/Docs/modelagem_dados_brazil_ecommerce_olist
 
